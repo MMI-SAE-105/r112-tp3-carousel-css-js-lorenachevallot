@@ -7,3 +7,7 @@ const container = document.querySelector(".carousel__container");
 prevButton.addEventListener("click", () => {
     container.scrollBy({ left: -300, behavior: "smooth" }); // Faites défiler vers la gauche
 });
+
+nextButton.addEventListener("click", () => {
+    container.scrollBy({ left: 300, behavior: "smooth" }); // Faites défiler vers la droite
+});
