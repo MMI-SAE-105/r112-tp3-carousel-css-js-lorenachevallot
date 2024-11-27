@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Chevallot
+- prénom : Loréna
+- URL Netlify : https://extraordinary-cobbler-7f2a80.netlify.app
 
 # Travail
 
